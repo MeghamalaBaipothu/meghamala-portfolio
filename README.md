@@ -78,7 +78,7 @@ Paper ID: **IJCRT2603093**
 
 ## 📄 Resume
 
-**[View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Resume.pdf)**
+**[View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Baipothu_Portfolio_Resume_pdf.pdf)**
 
 ## 🔗 Connect With Me
 
@@ -86,7 +86,5 @@ Paper ID: **IJCRT2603093**
 * **GitHub:** [MeghamalaBaipothu](https://github.com/MeghamalaBaipothu)
 * **Medium:** [@meghamalabaipothu](https://medium.com/@meghamalabaipothu)
 * **Email:** [meghamalabaipothu@gmail.com](mailto:meghamalabaipothu@gmail.com)
-
----
 
 ⭐ Thank you for visiting my portfolio repository!

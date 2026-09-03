@@ -83,7 +83,7 @@ Paper ID: **IJCRT2603093**
 ## 🔗 Connect With Me
 
 * **LinkedIn:** [Meghamala Baipothu](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
-* **Email:** [meghamalabaipothu@gmail.com](mailto:meghamalabaipothu@gmail.com)
+* **Email:** [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
 * **GitHub:** [MeghamalaBaipothu](https://github.com/MeghamalaBaipothu)
 * **Medium:** [@meghamalabaipothu](https://medium.com/@meghamalabaipothu)
 
